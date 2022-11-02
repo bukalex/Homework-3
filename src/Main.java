@@ -30,7 +30,7 @@ public class Main {
         } else if(SeatsLimit <= People && People < Limit){
             System.out.println("Остались только стоячие места.");
         } else {
-            System.out.println("Мест нет!");
+            System.out.println("Мест нет.");
         }
 
         System.out.println(" ");
